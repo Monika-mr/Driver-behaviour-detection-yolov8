@@ -16,7 +16,7 @@ This project performs real-time driver activity detection using Ultralytics YOLO
 - Bounding box visualization
 
 ## Sample Output
-results.jpg
+![Detection Result](results.png)
 
 ## Run
 pip install -r requirements.txt
